@@ -1,13 +1,3 @@
-
-<div  align="center" style="margin-bottom:100px">
-  <img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=robertoalvarezjunior&theme=transparent&mode=weekly"/>
-  <a href="https://github.com/robertoalvarezjunior"></a>
-</div>
-
-<div>
-  <a href="https://www.linkedin.com/in/roberto-carlos-pinto-alvarez-júnior-3a8119238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
 &nbsp;
 &nbsp;
 
